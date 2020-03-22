@@ -71,10 +71,10 @@
     [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]
   {% endif %}
   {% if entry.doi %}
-    [<a href="http://dx.doi.org/{{ entry.doi }}" target="_blank">DOI</a>]
+    <a href="http://dx.doi.org/{{ entry.doi }}" target="_blank"><img src="{{ '/assets/img/DOI.png' | prepend: site.baseurl | prepend: site.url }}"></a>
   {% endif %}
   {% if entry.url %}
-    [<a href="{{ entry.url }}" target="_blank">Scopus</a>]
+     <a href="{{ entry.url }}" target="_blank"><img src="{{ '/assets/img/scopus.jpg' | prepend: site.baseurl | prepend: site.url }}" style="width:25px;height:25px"></a>
   {% endif %}
   {% if entry.html %}
     [<a href="{{ entry.html }}" target="_blank">HTML</a>]
