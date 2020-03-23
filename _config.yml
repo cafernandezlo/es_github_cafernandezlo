@@ -4,9 +4,9 @@
 name: Carlos Fernandez-Lozano
 email: carlos.fernandez[at]udc.es
 description: > # this means to ignore newlines until "url:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Assistant Professor at University of A Coruña (Spain), PhD and MSc in Computer Science, MSc in Bioinfomatics and Biostatistics. Main research interests include feature selection, kernel-based techniques, machine learning, deep learning, support vector machines, data integration, computer vision and complex biological systems.
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 url:  "https://cafernandezlo.github.io"
