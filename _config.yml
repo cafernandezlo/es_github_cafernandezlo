@@ -11,7 +11,7 @@ footer_text: >
 
 url:  "https://cafernandezlo.github.io"
 baseurl: "/es_github_cafernandezlo"
-last_updated: 2020-03-22
+last_updated: 2020-03-30
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -29,7 +29,7 @@ research_gate_profile: Carlos_Fernandez-Lozano
 contact_note: >
   Please feel free to contact me if you have any questions or concerns.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-162152857-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
