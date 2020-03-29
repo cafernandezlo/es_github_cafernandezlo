@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Carlos</strong> </br> <strong>Fernandez-Lozano</strong>
+title: Carlos </br> <strong>Fernandez-Lozano</strong>
 description: <a href="https://pdi.udc.es/gl/File/Pdi/QY8UJ">Assistant Professor</a>.  Universidade da Coruña (UDC) <br/> <a href="https://www.citic.udc.es/estaticas/personal-investigador-no-permanente.htm;jsessionid=7037C15ED3F44C0358EB2CBDF45AA1CC">Affiliated Researcher</a>.  Centre for Information and Communications Technology Research (CITIC)
 
 profile:
