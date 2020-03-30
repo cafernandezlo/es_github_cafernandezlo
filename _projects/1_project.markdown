@@ -1,23 +1,18 @@
 ---
 layout: page
-title: COVID19 Spanish tracker
-description: A shiny-docker project for tracking COVID19
-img: /assets/img/covid.png
+title: Personal web page
+description: Done! ;)
+img: /assets/img/web.png
 ---
 
-In this project I dockerize a shiny R project for tracking the evolution of the COVID19 in Spain.
+This site is based in a beautiful and simple <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> theme for academics. It was originally based on the <a href="https://github.com/bogoli/-folio/" target="_blank">*folio</a> theme (published by <a href="https://liabogoev.com/" target="_blank">Lia Bogoev</a> and under the MIT license) and fully rewritten by <a href="https://www.cs.cmu.edu/~mshediva/" target="_blank">Maruan Al-Shedivat</a> et al under the same license. 
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/covid1.png" alt="" title="example plot"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/covid.png" alt="" title="principal app"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/covid2.png" alt="" title="example plot"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/web.png" alt="" title="personal web page"/>
 </div>
 <div class="col three caption">
-    Shiny R app to track COVID-19 in Spain. On the left an example plot. In the middle the main application. Right, another example plot.
+    This site looks pretty cool! ;)
 </div>
-
-This project is available online <a href="https://covid19.citic.udc.es" target="blank">here</a>
-
 <br/><br/>
 
 
