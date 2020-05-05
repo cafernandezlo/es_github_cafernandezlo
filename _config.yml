@@ -11,8 +11,11 @@ footer_text: >
 
 url:  "https://cafernandezlo.github.io"
 baseurl: "/es_github_cafernandezlo"
-last_updated: 2020-05-03
+last_updated: 2020-05-05
 
+number_cites: 375
+number_reviews: 99
+number_editor: 19
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
@@ -92,7 +95,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Fernandez-Lozano
 
   style: apa
   locale: en
