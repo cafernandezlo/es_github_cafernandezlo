@@ -21,6 +21,7 @@ Publications with I.F. (senior): 1<br>
 87% indexed publications with I.F in Q1-Q2<br>
 <br>
 </div>
+Asteriks (*) indicate authors with equal contributions.
 
 {% for y in page.years %}
   <h3 class="year">{{y}}</h3>
