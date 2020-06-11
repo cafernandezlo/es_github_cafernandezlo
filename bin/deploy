@@ -42,6 +42,11 @@ done
 # Exit if any subcommand fails
 set -e
 
+# actualizar valores desde publons
+echo "Downloading data from publons"
+sh publons
+echo "Done!"
+
 echo "Deploying..."
 echo "Source branch: $SRC_BRANCH"
 echo "Deploy branch: $DEPLOY_BRANCH"

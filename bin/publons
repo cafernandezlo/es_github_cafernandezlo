@@ -1,0 +1,15 @@
+# se descargan los datos
+datos=$(curl -X GET https://publons.com/api/v2/academic/0000-0003-0413-5677/ -H "Authorization: Token ace7d54c7af9098e413f12c2867cd13a24adfef6" -H "Content-Type: application/json")
+
+# se extraen numero de revisiones y se cambia en el fichero
+numberReviews=$(echo $datos | jq '.reviews.pre.count')
+sed -i 's/^number_reviews.*$/number_reviews: '"${numberReviews}"'/g' ../_config.yml
+
+# se extraen numero de trabajos como editor y se cambia en el fichero
+numberEditor=$(echo $datos | jq '.handling_editor_records.count')
+sed -i 's/^number_editor.*$/number_editor: '"${numberEditor}"'/g' ../_config.yml
+
+# se cambia la fecha de ultima actualizacion
+lastUpdate=$(date +"%Y-%m-%d")
+sed -i 's/^last_updated.*$/last_updated: '"${lastUpdate}"'/g' ../_config.yml
+
