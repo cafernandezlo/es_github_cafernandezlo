@@ -44,7 +44,7 @@ set -e
 
 # actualizar valores desde publons
 echo "Downloading data from publons"
-sh publons
+sh bin/publons
 echo "Done!"
 
 echo "Deploying..."
