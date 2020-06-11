@@ -45,6 +45,10 @@ set -e
 # actualizar valores desde publons
 echo "Downloading data from publons"
 sh bin/publons
+git add _config.yml
+git commit --allow-empty -m "updated from publons"
+git push -f -q origin source
+
 echo "Done!"
 
 echo "Deploying..."
