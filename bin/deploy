@@ -46,8 +46,10 @@ set -e
 echo "Downloading data from publons"
 sh bin/publons
 echo "Downloading data from Google Scholar"
-numberCitations=$(python3 bin/scholar | grep citedby | sed 's/[^0-9]*//g')
+numberCitations=$(python3 bin/scholar | grep citedby\': | sed 's/[^0-9]*//g')
+hindex=$(python3 bin/scholar | grep hindex\': | sed 's/[^0-9]*//g')
 sed -i 's/^number_cites.*$/number_cites: '"${numberCitations}"'/g' _config.yml
+sed -i 's/^hindex.*$/hindex: '"${hindex}"'/g' _config.yml
 git add _config.yml
 git commit --allow-empty -m "updated from publons and scholar"
 git push -f -q origin source
