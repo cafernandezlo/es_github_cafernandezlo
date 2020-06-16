@@ -1,0 +1,9 @@
+from scholarly import scholarly
+search_query=scholarly.search_author('Fernandez-Lozano, Carlos')
+print(next(search_query))
+
+#author=next(search_query).fill()
+#print(author)
+
+#author = next(search_query)
+#print(author.fill(sections=['indices']))
