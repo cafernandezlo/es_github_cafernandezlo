@@ -5,7 +5,8 @@ description: Collection of R regression tools based on Caret
 img: /assets/img/rregrs.png
 ---
 
-<strong>Authors:</strong>:
+<strong>Authors:</strong> Georgia Tsiliki, Cristian R. Munteanu, Jose A. Seoane, Carlos Fernandez-Lozano,
+Haralambos Sarimveis, Egon L. Willighagen
 
 You can download a tutorial <a href="http://www.enanomapper.net/sites/default/files/presentations/enanomapper_tutorial_rregrs_package_v1.pdf" target="_blank">here</a> 
 
