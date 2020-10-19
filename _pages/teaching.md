@@ -14,8 +14,8 @@ nav: true
 
 #### Fundamentals of Bioinformatics
 
-* _Introduction to R_: introduction to the R language to those without previous knowledge. [Start de course!](https://cafernandezlo.github.io/es_fic_mubics_intro_r/)
-* _Dealing with data: gpplot2 and dlpyr_ introduction to ggplot2 and dplyr. [Start de course!](https://cafernandezlo.github.io/es_fic_mubics_ggplot_dplyr/)
+* _Introduction to R_: introduction to the R language to those without previous knowledge. [Start the course!](https://cafernandezlo.github.io/es_fic_mubics_intro_r/)
+* _Dealing with data: gpplot2 and dlpyr_ introduction to ggplot2 and dplyr. [Start the course!](https://cafernandezlo.github.io/es_fic_mubics_ggplot_dplyr/)
 
 ### Master's in Computer Engineering
 
@@ -29,8 +29,8 @@ nav: true
 
 #### Programming Fundamentals
 
-* _Introduction to C+-_: this is intended to be an introduction to the C+- language to those without previous knowledge. [Start de course!](https://github.com/cafernandezlo/es_uned_fp) (spanish)
+* _Introduction to C+-_: this is intended to be an introduction to the C+- language to those without previous knowledge. [Start the course!](https://github.com/cafernandezlo/es_uned_fp) (spanish)
 
 #### Object-oriented programming
 
-* _Introduction to OOP_: this is intended to be an introduction to the OOP model to those without previous knowledge. [Start de course!](https://github.com/cafernandezlo/es_uned_poo) (spanish)
+* _Introduction to OOP_: this is intended to be an introduction to the OOP model to those without previous knowledge. [Start the course!](https://github.com/cafernandezlo/es_uned_poo) (spanish)
