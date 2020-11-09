@@ -30,15 +30,15 @@ where I partipated mainly as the first author: CIMED (11), REGICC (6), 2DGel (9)
 established strong and active international collaborations and I am a well-established researcher in 
 the area, due to this, I led two special issues as guest editor in JCR journals with 
 <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.number_editor}}</a> 
-verified editor records: <a href="https://www.mdpi.com/journal/entropy/special_issues/high_dimensional">Entropy</a> and <a href="http://www.aimspress.com/newsinfo/1364.html">Mathematical Biosciences and Engineering</a>. 
+verified editor records (last updated {{last_updated}}): <a href="https://www.mdpi.com/journal/entropy/special_issues/high_dimensional">Entropy</a> and <a href="http://www.aimspress.com/newsinfo/1364.html">Mathematical Biosciences and Engineering</a>. 
 I have published (32) research papers in JCR-ranked journals (17-Q1, 8-D1 and 11-Q2), (15) as first 
 author, (12) as corresponding author and (19) without my thesis supervisors, (3) of them without 
 authors of my own institution and finally, (2) as senior author. Including high-impact journals: 
 Nature Communications, Scientific Reports, Genetic Selection Evolution or Journal of Cheminformatics. 
-My research work has <a href="https://scholar.google.es/citations?user=gE-7NE4AAAAJ&hl=es">{{site.number_cites}}</a> citations up to now, reporting and h-index of {{site.hindex}} (source: Google Scholar). 
+My research work has <a href="https://scholar.google.es/citations?user=gE-7NE4AAAAJ&hl=es">{{site.number_cites}}</a> citations up to now, reporting and h-index of {{site.hindex}} (source: Google Scholar, last updated: {{last_updated}}). 
 Currently, supervisor of (2) PhD students (5 publications as senior author) and I have supervised (2) 
 Master students and (11) Bachelor students. I have reviewed <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.number_reviews}}</a> 
-manuscripts in JCR-indexed journals. 
+manuscripts in JCR-indexed journals (source: Publons, last updated: {{last_updated}}). 
 
 My research line have been focused on cutting-edge, model-based, multidisciplinary research where the 
 overarching goal is to foster research that connects computer science, bioinformatics and engineering. 
