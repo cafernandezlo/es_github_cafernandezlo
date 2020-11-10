@@ -31,9 +31,8 @@ established strong and active international collaborations and I am a well-estab
 the area, due to this, I led two special issues as guest editor in JCR journals with 
 <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.number_editor}}</a> 
 verified editor records (last updated {{site.last_updated}}): <a href="https://www.mdpi.com/journal/entropy/special_issues/high_dimensional">Entropy</a> and <a href="http://www.aimspress.com/newsinfo/1364.html">Mathematical Biosciences and Engineering</a>. 
-I have published (32) research papers in JCR-ranked journals (17-Q1, 8-D1 and 11-Q2), (15) as first 
-author, (12) as corresponding author and (19) without my thesis supervisors, (3) of them without 
-authors of my own institution and finally, (2) as senior author. Including high-impact journals: 
+I have published ({{site.total_jcr}}) research papers in JCR-ranked journals ({{site.total_q1}}-Q1, {{site.total_d1}}-D1 and {{site.total_q2}}-Q2), ({{site.total_fa}}) as first 
+author, ({{site.total_ca}}) as corresponding author and ({{site.total_sa}}) as senior author with an accumulated IF of ({{site.total_if}}). Including high-impact journals: 
 Nature Communications, Scientific Reports, Genetic Selection Evolution or Journal of Cheminformatics. 
 My research work has <a href="https://scholar.google.es/citations?user=gE-7NE4AAAAJ&hl=es">{{site.number_cites}}</a> citations up to now, reporting and h-index of {{site.hindex}} (source: Google Scholar, last updated: {{site.last_updated}}). 
 Currently, supervisor of (2) PhD students (5 publications as senior author) and I have supervised (2) 
