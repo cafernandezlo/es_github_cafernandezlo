@@ -34,7 +34,7 @@ verified editor records (last updated {{site.last_updated}}): <a href="https://w
 I have published ({{site.total_jcr}}) research papers in JCR-ranked journals ({{site.total_q1}}-Q1, {{site.total_d1}}-D1 and {{site.total_q2}}-Q2), ({{site.total_fa}}) as first 
 author, ({{site.total_ca}}) as corresponding author and ({{site.total_sa}}) as senior author with an accumulated IF of ({{site.total_if}}). Including high-impact journals: 
 Nature Communications, Scientific Reports, Genetic Selection Evolution or Journal of Cheminformatics. 
-My research work has <a href="https://scholar.google.es/citations?user=gE-7NE4AAAAJ&hl=es">{{site.number_cites}}</a> citations up to now, reporting and h-index of {{site.hindex}} (source: Google Scholar, last updated: {{site.last_updated}}). 
+My research work has <a href="https://scholar.google.es/citations?user=gE-7NE4AAAAJ&hl=es">485</a> citations up to now, reporting and h-index of 14 (source: Google Scholar, last updated: {{site.last_updated}}). 
 Currently, supervisor of (2) PhD students (5 publications as senior author) and I have supervised (2) 
 Master students and (11) Bachelor students. I have reviewed <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.number_reviews}}</a> 
 manuscripts in JCR-indexed journals (source: Publons, last updated: {{site.last_updated}}). 
