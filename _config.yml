@@ -11,12 +11,12 @@ footer_text: >
 
 url:  "https://cafernandezlo.github.io"
 baseurl: "/es_github_cafernandezlo"
-last_updated: 2020-11-10
+last_updated: 2020-12-09
 
-number_cites: 476
-number_reviews: 124
-number_editor: 27
-hindex: 13
+number_cites: 
+number_reviews: 126
+number_editor: 28
+hindex: 
 total_jcr: 33
 total_q1: 16
 total_d1: 6
