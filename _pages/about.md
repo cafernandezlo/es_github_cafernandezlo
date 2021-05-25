@@ -37,7 +37,9 @@ Nature Communications, Scientific Reports, Genetic Selection Evolution or Journa
 My research work has <a href="https://scholar.google.es/citations?user=gE-7NE4AAAAJ&hl=es">578</a> citations up to now, reporting and h-index of 15 (source: Google Scholar, last updated: {{site.last_updated}}). 
 Currently, supervisor of (2) PhD students (5 publications as senior author) and I have supervised (2) 
 Master students and (11) Bachelor students. I have reviewed <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.number_reviews}}</a> 
-manuscripts in JCR-indexed journals (source: Publons, last updated: {{site.last_updated}}). 
+manuscripts in JCR-indexed journals (source: Publons, last updated: {{site.last_updated}}) and member of (2) Ph.D. committe. 
+
+Academic Editor - PeerJ Computer Science Journal, Editorial Board Member - BMC Molecular and Cell Biology, Topic Board Editor - Entropy.
 
 My research line have been focused on cutting-edge, model-based, multidisciplinary research where the 
 overarching goal is to foster research that connects computer science, bioinformatics and engineering. 
