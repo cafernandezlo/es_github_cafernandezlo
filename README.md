@@ -21,6 +21,7 @@ After your are done commit your changes to branch **source** and deploy to branc
 $ git status
 $ git diff *
 $ git add .
+$ git commit -m
 $ git push origin source
 $ ./bin/deploy --user
 ```
