@@ -1,7 +1,31 @@
-from scholarly import scholarly
-search_query=scholarly.search_author('Fernandez-Lozano, Carlos')
-#author=next(search_query).fill()
-# revisar cambios: https://pypi.org/project/scholarly/ 
-# fecha: 9-12-20
-author=scholarly.fill(next(search_query))
-print(author)
+#!/bin/sh
+
+data="$(python3 bin/.scholar.py)"
+
+# sed and mv commands are used because sed -i (--in-place) option is not portable between GNU and BSD/macOS. More info in:
+# https://stackoverflow.com/questions/16745988/sed-command-with-i-option-in-place-editing-works-fine-on-ubuntu-but-not-mac
+
+numberCitations="$(echo "${data}" | grep "^citedby.*$" | sed --expression="s/[^0-9]*//g")"
+if [ -z "${numberCitations}" ]; then
+    echo "Number of citations could not be retrieved from Scholar."
+else
+    sed --expression='s/^scholar_number_cites.*$/scholar_number_cites: '"${numberCitations}"'/g' _config.yml > _config.yml.bak \
+        && mv _config.yml.bak _config.yml
+fi
+
+
+hindex="$(echo "${data}" | grep "^hindex.*$" | sed --expression="s/[^0-9]*//g")"
+if [ -z "${hindex}" ]; then
+    echo "h-index could not be retrieved from Scholar."
+else
+    sed --expression='s/^scholar_hindex.*$/scholar_hindex: '"${hindex}"'/g' _config.yml > _config.yml.bak \
+        && mv _config.yml.bak _config.yml
+fi
+
+
+last_updated="$(date +"%Y-%m-%d")"
+sed --expression='s/^scholar_last_updated.*$/scholar_last_updated: '"${last_updated}"'/g' _config.yml > _config.yml.bak \
+    && mv _config.yml.bak _config.yml
+
+sed --expression='s/^web_last_updated.*$/web_last_updated: '"${last_updated}"'/g' _config.yml > _config.yml.bak \
+    && mv _config.yml.bak _config.yml

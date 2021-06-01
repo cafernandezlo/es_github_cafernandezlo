@@ -1,15 +1,43 @@
-# se descargan los datos
-datos=$(curl -X GET https://publons.com/api/v2/academic/0000-0003-0413-5677/ -H "Authorization: Token ace7d54c7af9098e413f12c2867cd13a24adfef6" -H "Content-Type: application/json")
+#!/bin/sh
+
+readonly PUBLONS_URL="https://publons.com/api/v2/academic/0000-0003-0413-5677/"
+readonly TOKEN="ace7d54c7af9098e413f12c2867cd13a24adfef6"
+
+
+[ -z "$(command -v curl)" ] && echo "You need to install curl." && exit 1
+[ -z "$(command -v jq  )" ] && echo "You need to install jq."   && exit 1
+
+# Download data
+data="$(curl      "${PUBLONS_URL}"                    \
+        --request  GET                                \
+        --header  "Authorization: Token ${TOKEN}"     \
+        --header  "Content-Type:  application/json")"
+
+# sed and mv commands are used because sed -i (--in-place) option is not portable between GNU and BSD/macOS. More info in:
+# https://stackoverflow.com/questions/16745988/sed-command-with-i-option-in-place-editing-works-fine-on-ubuntu-but-not-mac
 
 # se extraen numero de revisiones y se cambia en el fichero
-numberReviews=$(echo $datos | jq '.reviews.pre.count')
-sed -i 's/^number_reviews.*$/number_reviews: '"${numberReviews}"'/g' _config.yml
+numberReviews="$(echo "${data}" | jq '.reviews.pre.count')"
+if [ -z "${numberReviews}" ]; then
+    echo "Number of reviews could not be retrieved from Publons."
+else
+    sed --expression='s/^publons_number_reviews.*$/publons_number_reviews: '"${numberReviews}"'/g' _config.yml > _config.yml.bak \
+        && mv _config.yml.bak _config.yml
+fi
 
 # se extraen numero de trabajos como editor y se cambia en el fichero
-numberEditor=$(echo $datos | jq '.handling_editor_records.count')
-sed -i 's/^number_editor.*$/number_editor: '"${numberEditor}"'/g' _config.yml
+numberEditor="$(echo "${data}" | jq '.handling_editor_records.count')"
+if [ -z "${numberEditor}" ]; then
+    echo "Number of editions could not be retrieved from Publons."
+else
+    sed --expression='s/^publons_number_editor.*$/publons_number_editor: '"${numberEditor}"'/g' _config.yml > _config.yml.bak \
+        && mv _config.yml.bak _config.yml
+fi
 
-# se cambia la fecha de ultima actualizacion
-lastUpdate=$(date +"%Y-%m-%d")
-sed -i 's/^last_updated.*$/last_updated: '"${lastUpdate}"'/g' _config.yml
+# Update 'publons_last_updated'.
+lastUpdate="$(date +"%Y-%m-%d")"
+sed --expression='s/^publons_last_updated.*$/publons_last_updated: '"${lastUpdate}"'/g' _config.yml > _config.yml.bak \
+    && mv _config.yml.bak _config.yml
 
+sed --expression='s/^web_last_updated.*$/web_last_updated: '"${lastUpdate}"'/g' _config.yml > _config.yml.bak \
+    && mv _config.yml.bak _config.yml

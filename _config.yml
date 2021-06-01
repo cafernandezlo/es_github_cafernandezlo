@@ -11,12 +11,17 @@ footer_text: >
 
 url:  "https://cafernandezlo.github.io"
 baseurl: "/es_github_cafernandezlo"
-last_updated: 2021-05-25
+web_last_updated: 2021-05-25
 
-number_cites: 578
-number_reviews: 163
-number_editor: 26
-hindex: 15
+scholar_number_cites: 578
+scholar_hindex: 15
+scholar_last_updated: 2021-05-12
+
+publons_number_reviews: 163
+publons_number_editor: 26
+publons_last_updated: 2021-05-12
+
+
 total_jcr: 34
 total_q1: 17
 total_d1: 6
