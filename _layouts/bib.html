@@ -53,10 +53,21 @@
       <em>{{entry.journal}}</em>
     {% elsif entry.type == "inproceedings" %}
       <em>In {{entry.booktitle}},</em>
-      <em> pp. {{entry.pages}},</em>
-      <em> {{entry.series}},</em>
-      <em> {{entry.publisher}}. </em>
-      <em> <strong>{{entry.notes}}</strong></em>
+      {%if entry.pages %}
+        <em> pp. {{entry.pages}},</em>
+      {% endif %}
+      {%if entry.series %}
+        <em> {{entry.series}},</em>
+      {% endif %}
+      {% if entry.volume %}
+        <em> {{entry.volume}},</em>
+      {% endif%}
+      {%if entry.publisher %}
+        <em> {{entry.publisher}}. </em>
+      {% endif %}
+      {%if entry.notes %}
+        <em> <strong>{{entry.notes}}</strong></em>
+      {% endif %}
     {% elsif entry.type == "inbook" %}
       <em>In: {{entry.editor}} (eds). </em>
       <em> {{entry.booktitle}}. </em>
