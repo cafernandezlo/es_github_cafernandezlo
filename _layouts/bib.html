@@ -52,7 +52,16 @@
     {% if entry.type == "article" %}
       <em>{{entry.journal}}</em>
     {% elsif entry.type == "inproceedings" %}
-      <em>In {{entry.booktitle}}</em>
+      <em>In {{entry.booktitle}},</em>
+      <em> pp. {{entry.pages}},</em>
+      <em> {{entry.series}},</em>
+      <em> {{entry.publisher}}. </em>
+      <em> <strong>{{entry.notes}}</strong></em>
+    {% elsif entry.type == "inbook" %}
+      <em>In: {{entry.editor}} (eds). </em>
+      <em> {{entry.booktitle}}. </em>
+      <em> {{entry.volume}}. </em>
+      <em> {{entry.publisher}}</em>
     {% endif %}
     {% if entry.year %}
       {{entry.year}}

@@ -1,9 +1,9 @@
 <footer>
 
   <div class="wrapper">
-    &copy; Copyright. {{ site.time | date: '%Y' }}. {{ site.name }}.
+    &copy; Copyright. {{ site.time | date: '%Y' }}. {{ site.title }}.
     {{ site.footer_text }}
-    {% if site.last_updated %}
+    {% if site.web_last_updated %}
         Last updated: {{ site.web_last_updated }}.
     {% endif %}
   </div>
