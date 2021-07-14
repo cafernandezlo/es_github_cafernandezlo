@@ -25,6 +25,20 @@ $ git commit -m
 $ git push origin source
 $ ./bin/deploy --user
 ```
+# Updating a Gem without modifying the Gemfile
+
+Sometimes some security issues arise and it's necessary to update a dependency.
+
+```bash
+$ bundle update name_to_update
+```
+
+In case that you want to update every gem:
+
+```bash
+$ bundle update
+```
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).

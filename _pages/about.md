@@ -16,28 +16,35 @@ news: true
 social: true
 ---
 
-Assistant Professor and vice dean of computing resources of the Faculty of Computer Science at the University of A Coruña (UDC). I obtained my PhD in computer science in 2014 
+Assistant Professor and vice dean of computing resources of the Faculty of Computer Science at the 
+University of A Coruña (UDC). I obtained my PhD in computer science in 2014 
 from UDC and in 2020 a MSc in Bioinformatics from the Open University of Catalonia and the University 
-of Barcelona. During my PhD, I was also a visiting student at the University of Parma (supervisor: Dr. 
-Stefano Cagnoni) and University of Bristol (supervisor: Dr. Colin Campbell). Before joining the UDC in 
-2018, I held a Juan de la Cierva - Formación (FJCI-2015-26071), a highly competitive research grant 
-with a 13.46% success rate (in the Computer Science and Information Technology call) at the Institute 
-of Biomedical Research of A Coruña. During this fellowship, I was also a visiting scholar at the 
-Stanford University under the supervision of Dr. Christina Curtis. 
+of Barcelona. During my PhD, I was also a visiting student at the University of Parma 
+(supervisor: Dr. Stefano Cagnoni) and University of Bristol (supervisor: Dr. Colin Campbell). 
+Before joining the UDC in 2018, I held a Juan de la Cierva - Formación (FJCI-2015-26071), a highly 
+competitive research grant with a 13.46% success rate (in the Computer Science and Information 
+Technology call) at the Institute of Biomedical Research of A Coruña. During this fellowship, I was 
+also a visiting scholar at the Stanford University under the supervision of Dr. Christina Curtis. 
 
-I have participated in (10) research projects, some with journal publications indexed in the WOS (JCR) 
-where I partipated mainly as the first author: CIMED (11), REGICC (6), 2DGel (9). Additionally, I have 
-established strong and active international collaborations and I am a well-established researcher in 
-the area, due to this, I led two special issues as guest editor in JCR journals with 
-<a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.publons_number_editor}}</a> 
-verified editor records (last updated {{site.publons_last_updated}}): <a href="https://www.mdpi.com/journal/entropy/special_issues/high_dimensional">Entropy</a> and <a href="http://www.aimspress.com/newsinfo/1364.html">Mathematical Biosciences and Engineering</a>. 
-I have published ({{site.total_jcr}}) research papers in JCR-ranked journals ({{site.total_q1}}-Q1, {{site.total_d1}}-D1 and {{site.total_q2}}-Q2), ({{site.total_fa}}) as first 
-author, ({{site.total_ca}}) as corresponding author and ({{site.total_sa}}) as senior author with an accumulated IF of ({{site.total_if}}). Including high-impact journals: 
-Nature Communications, Scientific Reports, Genetic Selection Evolution or Journal of Cheminformatics. 
-My research work has <a href="https://scholar.google.es/citations?user=gE-7NE4AAAAJ&hl=es">{{site.scholar_number_cites}}</a> citations up to now, reporting and h-index of 15 (source: Google Scholar, last updated: {{site.scholar_last_updated}}). 
-Currently, supervisor of (2) PhD students (5 publications as senior author) and I have supervised (2) 
-Master students and (11) Bachelor students. I have reviewed <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.publons_number_reviews}}</a> 
-manuscripts in JCR-indexed journals (source: Publons, last updated: {{site.publons_last_updated}}) and member of (2) Ph.D. committe. 
+I have participated in (10) research projects, some with journal publications indexed in the WOS 
+(JCR) where I partipated mainly as the first author: CIMED (11), REGICC (6), 2DGel (9). 
+Additionally, I have established strong and active international collaborations and I am a 
+well-established researcher in the area, due to this, I led two special issues as guest editor 
+in JCR journals with <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.publons_number_editor}}</a> 
+verified editor records (last updated {{site.publons_last_updated}}): 
+<a href="https://www.mdpi.com/journal/entropy/special_issues/high_dimensional">Entropy</a> and 
+<a href="http://www.aimspress.com/newsinfo/1364.html">Mathematical Biosciences and Engineering</a>. 
+I have published ({{site.total_jcr}}) research papers in JCR-ranked journals ({{site.total_q1}}-Q1,
+ {{site.total_d1}}-D1 and {{site.total_q2}}-Q2), ({{site.total_fa}}) as first author,
+ ({{site.total_ca}}) as corresponding author and ({{site.total_sa}}) as senior author with an 
+accumulated IF of ({{site.total_if}}). Including high-impact journals: Nature Communications, 
+Scientific Reports, Genetic Selection Evolution or Journal of Cheminformatics. My research work has 
+<a href="https://scholar.google.es/citations?user=gE-7NE4AAAAJ&hl=es">{{site.scholar_number_cites}}</a> citations up to now, reporting and h-index of 15 (source: Google Scholar, last updated: {{site.scholar_last_updated}}). 
+Currently, supervisor of (4) PhD students (6 publications as senior author) and I 
+have supervised (3) Master students and (15) Bachelor students. I have reviewed 
+<a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.publons_number_reviews}}</a> 
+manuscripts in JCR-indexed journals (source: Publons, last updated: {{site.publons_last_updated}}) 
+and member of (2) Ph.D. thesis committe. 
 
 Academic Editor - PeerJ Computer Science Journal, Editorial Board Member - BMC Molecular and Cell Biology, Topic Board Editor - Entropy.
 
