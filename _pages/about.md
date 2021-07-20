@@ -31,20 +31,19 @@ I have participated in (10) research projects, some with journal publications in
 Additionally, I have established strong and active international collaborations and I am a 
 well-established researcher in the area, due to this, I led two special issues as guest editor 
 in JCR journals with <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.publons_number_editor}}</a> 
-verified editor records (last updated {{site.publons_last_updated}}): 
-<a href="https://www.mdpi.com/journal/entropy/special_issues/high_dimensional">Entropy</a> and 
-<a href="http://www.aimspress.com/newsinfo/1364.html">Mathematical Biosciences and Engineering</a>. 
-I have published ({{site.total_jcr}}) research papers in JCR-ranked journals ({{site.total_q1}}-Q1,
- {{site.total_d1}}-D1 and {{site.total_q2}}-Q2), ({{site.total_fa}}) as first author,
- ({{site.total_ca}}) as corresponding author and ({{site.total_sa}}) as senior author with an 
+verified editor records. 
+
+I have published (**{{site.total_jcr}}**) research papers in JCR-ranked journals (**{{site.total_q1}}**-Q1,
+ **{{site.total_d1}}**-D1 and {{site.total_q2}}-Q2), ({{site.total_fa}}) as first author,
+ ({{site.total_ca}}) as corresponding author and (**{{site.total_sa}}**) as senior author, (6) including conferences and book chapters, with an 
 accumulated IF of ({{site.total_if}}). Including high-impact journals: Nature Communications, 
-Scientific Reports, Genetic Selection Evolution or Journal of Cheminformatics. My research work has 
-<a href="https://scholar.google.es/citations?user=gE-7NE4AAAAJ&hl=es">{{site.scholar_number_cites}}</a> citations up to now, reporting and h-index of 15 (source: Google Scholar, last updated: {{site.scholar_last_updated}}). 
-Currently, supervisor of (4) PhD students (6 publications as senior author) and I 
-have supervised (3) Master students and (15) Bachelor students. I have reviewed 
+Scientific Reports, Genetic Selection Evolution or Journal of Cheminformatics. 
+
+My research work has 
+<a href="https://scholar.google.es/citations?user=gE-7NE4AAAAJ&hl=es">{{site.scholar_number_cites}}</a> citations up to now, reporting and h-index of {{site.scholar_hindex}} (source: Google Scholar). 
+I have reviewed 
 <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.publons_number_reviews}}</a> 
-manuscripts in JCR-indexed journals (source: Publons, last updated: {{site.publons_last_updated}}) 
-and member of (2) Ph.D. thesis committe. 
+manuscripts in JCR-indexed journals (source: Publons) and I have been member of (2) Ph.D. thesis committes. 
 
 Academic Editor - PeerJ Computer Science Journal, Editorial Board Member - BMC Molecular and Cell Biology, Topic Board Editor - Entropy.
 
@@ -53,3 +52,5 @@ overarching goal is to foster research that connects computer science, bioinform
 Particularly, I have developed applications within the convergence between biology and 
 Machine Learning, following a data-driven approach for data integration in the analysis of complex 
 relationships.
+
+
