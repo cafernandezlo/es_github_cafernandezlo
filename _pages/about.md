@@ -35,7 +35,7 @@ verified editor records.
 
 I have published (**{{site.total_jcr}}**) research papers in JCR-ranked journals (**{{site.total_q1}}**-Q1,
  **{{site.total_d1}}**-D1 and {{site.total_q2}}-Q2), ({{site.total_fa}}) as first author,
- ({{site.total_ca}}) as corresponding author and (**{{site.total_sa}}**) as senior author, (6) including conferences and book chapters, with an 
+ ({{site.total_ca}}) as corresponding author and (**{{site.total_sa}}**) as senior author, (8) including conferences and book chapters, with an 
 accumulated IF of ({{site.total_if}}). Including high-impact journals: Nature Communications, 
 Scientific Reports, Genetic Selection Evolution or Journal of Cheminformatics. 
 
