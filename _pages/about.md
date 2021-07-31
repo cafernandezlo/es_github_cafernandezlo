@@ -29,12 +29,12 @@ also a visiting scholar at the Stanford University under the supervision of Dr. 
 I have participated in (10) research projects, some with journal publications indexed in the WOS 
 (JCR) where I partipated mainly as the first author: CIMED (11), REGICC (6), 2DGel (9). 
 Additionally, I have established strong and active international collaborations and I am a 
-well-established researcher in the area, due to this, I led two special issues as guest editor 
+well-established researcher in the area (only 12 out of {{site.total_jcr}} publications with my PhD supervisors), due to this, I led two special issues as guest editor 
 in JCR journals with <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.publons_number_editor}}</a> 
 verified editor records. 
 
 I have published (**{{site.total_jcr}}**) research papers in JCR-ranked journals (**{{site.total_q1}}**-Q1,
- **{{site.total_d1}}**-D1 and {{site.total_q2}}-Q2), ({{site.total_fa}}) as first author,
+ **{{site.total_d1}}**-D1 and {{site.total_q1q2}}% Q1-Q2), ({{site.total_fa}}) as first author,
  ({{site.total_ca}}) as corresponding author and (**{{site.total_sa}}**) as senior author, (8) including conferences and book chapters, with an 
 accumulated IF of ({{site.total_if}}). Including high-impact journals: Nature Communications, 
 Scientific Reports, Genetic Selection Evolution or Journal of Cheminformatics. 
