@@ -33,11 +33,12 @@ well-established researcher in the area (only 12 out of {{site.total_jcr}} publi
 in JCR journals with <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.publons_number_editor}}</a> 
 verified editor records. 
 
-I have published (**{{site.total_jcr}}**) research papers in JCR-ranked journals (**{{site.total_q1}}**-Q1,
+I have published (**{% bibliography_count -f papers --query @article[year<={{ site.time | date: '%Y' }} ] %}**) research papers in JCR-ranked journals (**{{site.total_q1}}**-Q1,
  **{{site.total_d1}}**-D1 and {{site.total_q1q2}}% Q1-Q2), ({{site.total_fa}}) as first author,
- ({{site.total_ca}}) as corresponding author and (**{{site.total_sa}}**) as senior author, (8) including conferences and book chapters, with an 
-accumulated IF of ({{site.total_if}}). Including high-impact journals: Nature Communications, 
-Scientific Reports, Genetic Selection Evolution or Journal of Cheminformatics. 
+ ({{site.total_ca}}) as corresponding author and (**{{site.total_sa}}**) as senior author - 8 including conferences ({% bibliography_count -f conferences --query @inproceedings[year<={{ site.time | date: '%Y' }} ] %}) - and 
+book chapters ({% bibliography_count -f bookchapter --query @inbook[year<={{ site.time | date: '%Y' }} ] %}), with an 
+accumulated IF of ({{site.total_if}}). Including high-impact journals: Nature Communications, Expert Systems with Applications, Neuroinformatics,
+Scientific Reports, Genetics Selection Evolution, Trends in Analytical Chemistry or Journal of Cheminformatics. 
 
 My research work has 
 <a href="https://scholar.google.es/citations?user=gE-7NE4AAAAJ&hl=es">{{site.scholar_number_cites}}</a> citations up to now, reporting and h-index of {{site.scholar_hindex}} (source: Google Scholar). 
