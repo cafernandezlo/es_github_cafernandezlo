@@ -13,6 +13,9 @@ contributions in conferences. Moreover, I have published {% bibliography_count -
 book chapters.
 <br>
 <br>
+PhD student publications are highlighted in blue.
+<br>
+<br>
 <small>Asteriks (*) indicate authors with equal contributions.</small>
 
 <strong>JCR-indexed journal publications list</strong>

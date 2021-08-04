@@ -1,3 +1,12 @@
-Seoane:
-    url: https://profiles.stanford.edu/jose-seoane
+#Seoane:
+#  - firstname: ["Jose", "Jose A.", "J.A.", "J."]
+#    url: https://profiles.stanford.edu/jose-seoane
 
+Liñares-Blanco:
+  - firstname: ["J.", "Jose"]
+
+Fernández-Edreira:
+  - firstname: ["Diego", "D."]
+
+Carracedo-Reboredo:
+  - firstname: ["P.", "Paula"]
