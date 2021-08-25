@@ -29,7 +29,7 @@ also a visiting scholar at the Stanford University under the supervision of Dr. 
 I have participated in (10) research projects, some with journal publications indexed in the WOS 
 (JCR) where I partipated mainly as the first author: CIMED (11), REGICC (6), 2DGel (9). 
 Additionally, I have established strong and active international collaborations and I am a 
-well-established researcher in the area (only 12 out of {{site.total_jcr}} publications with my PhD supervisors), due to this, I led two special issues as guest editor 
+well-established researcher in the area (only 12 out of {% bibliography_count -f papers --query @article[year<={{ site.time | date: '%Y' }} ] %} publications with my PhD supervisors), due to this, I led two special issues as guest editor 
 in JCR journals with <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.publons_number_editor}}</a> 
 verified editor records. 
 
