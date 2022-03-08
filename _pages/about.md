@@ -35,7 +35,7 @@ supervising several PhD students, one of them being in her final year dealing wi
 cancer and two of whom are in the middle of their studies dealing with microbiome data integration and genomic mapping of 
 antibiotic resistant bacterial pathogens. The number of authors per article signing as senior author does not exceed four 
 people (~4.6 average per paper). Additionally, I have established strong and active international collaborations (only 12 out of 
-37 #{% bibliography_count -f papers --query @article[year<={{ site.time | date: '%Y' }} ] %} 
+37 
 publications with my PhD supervisors). I led two special issues as guest editor 
 in JCR journals with <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.publons_number_editor}}</a> 
 verified editor records. 

@@ -7,7 +7,7 @@ years: [2021,2020,2019,2018,2017,2016,2015,2014,2013]
 confyears: [2021,2020,2019,2018,2017,2016,2015,2013,2012,2011]
 bookyears: [2019,2018,2014,2013,2012,2011]
 ---
-I have published {% bibliography_count -f papers --query @article[year<={{ site.time | date: '%Y' }} ] %} JCR-indexed papers
+I have published {% bibliography_count -f papers --query @article[year<={{2022}} ] %} JCR-indexed papers
 ({{site.total_q1}}-Q1 ranked) and {% bibliography_count -f conferences --query @inproceedings[year<={{ site.time | date: '%Y' }} ] %} 
 contributions in conferences. Moreover, I have published {% bibliography_count -f bookchapter --query @inbook[year<={{ site.time | date: '%Y' }} ] %}
 book chapters.
