@@ -26,8 +26,8 @@ competitive research grant with a 13.46% success rate (in the Computer Science a
 Technology call) at the Institute of Biomedical Research of A Coruña (INIBIC). During this fellowship, I was 
 also a visiting scholar at the Stanford University under the supervision of Dr. Christina Curtis. 
 
-After my 4-year postdoc at the INIBIC, I currently hold an appointment at UDC and I was awarded 
-with the ANECA habilitation of _Profesor Titular_. During the last years I added more than 1400 full time hours of 
+After my 4-year postdoc at the INIBIC, I currently hold an appointment at UDC and I was recognized 
+with a 5-years period (2016-2021) on teaching work and a 6-years period (2011-2016) on reseach work (ANECA-CNEAI). During the last years I added more than 1400 full time hours of 
 accreditated university teaching. I started leading a student body, including 4 PhD students, one of them defended with 
 honours. Furthermore, this means that I have experience leading research work with 5 JCR publications as senior author 
 (4 Q1, 1D1) and I am able to independently lead and supervise PhD students in my own research line. I am currently 
