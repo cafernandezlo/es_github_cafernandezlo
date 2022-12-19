@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Carlos </br> <strong>Fernandez-Lozano</strong>
-description: <a href="https://pdi.udc.es/gl/File/Pdi/QY8UJ">Associate Professor</a>.  Universidade da Coruña (UDC)
+description: <a href="https://pdi.udc.es/en/File/Pdi/QY8UJ">Associate Professor</a>.  Universidade da Coruña (UDC)
 
 profile:
   align: right
