@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Carlos </br> <strong>Fernandez-Lozano</strong>
-description: <a href="https://pdi.udc.es/gl/File/Pdi/QY8UJ">Assistant Professor</a>.  Universidade da Coruña (UDC) <br/> Affiliated Researcher.  Centre for Information and Communications Technology Research (CITIC)
+description: <a href="https://pdi.udc.es/gl/File/Pdi/QY8UJ">Associate Professor</a>.  Universidade da Coruña (UDC)
 
 profile:
   align: right
@@ -16,8 +16,11 @@ news: true
 social: true
 ---
 
-Assistant Professor and vice-dean of computing resources of the Faculty of Computer Science at the 
-University of A Coruña (UDC). I obtained my PhD in computer science in 2014 
+Associate Professor (Profesor Titular de Universidad) and vice-dean of computing resources of the Faculty of Computer Science at the 
+University of A Coruña (UDC). Affiliated Researcher at the Centre for Information and Communications Technology Research (CITIC) and 
+the Institute of Biomedical Research of A Coruña (INIBIC).
+
+I obtained my PhD in computer science in 2014 
 from UDC and in 2020 a MSc in Bioinformatics from the Open University of Catalonia and the University 
 of Barcelona. During my PhD, I was also a visiting student at the University of Parma 
 (supervisor: Dr. Stefano Cagnoni) and University of Bristol (supervisor: Dr. Colin Campbell). 
@@ -51,9 +54,9 @@ My research work has
 <a href="https://scholar.google.es/citations?user=gE-7NE4AAAAJ&hl=es">{{site.scholar_number_cites}}</a> citations up to now, reporting and h-index of {{site.scholar_hindex}} (source: Google Scholar). 
 I have reviewed 
 <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.publons_number_reviews}}</a> 
-manuscripts in JCR-indexed journals (source: Publons) and I have been member of (3) Ph.D. thesis committes. 
+manuscripts in JCR-indexed journals (source: Publons) and I have been member of (4) Ph.D. thesis committes. 
 
-Academic Editor - PeerJ Computer Science Journal, Editorial Board Member - BMC Molecular and Cell Biology, Topic Board Editor - Entropy.
+Academic Editor - PeerJ Computer Science Journal, Editorial Board Member - BMC Molecular and Cell Biology, Topic Board Editor - Entropy, Editorial Board Member - Intelligent Data Analysis Journal.
 
 I have developed a model for monitoring COVID-19 virus infection in Spain that is available at <a href="https://covid19.citic.udc.es/">https://covid19.citic.udc.es</a>. 
 It has appeared in 25 media (radio and press) with an approximate rating of 43,654€ and an approximate audience of 

@@ -11,24 +11,24 @@ footer_text: >
 
 url:  "https://cafernandezlo.github.io"
 baseurl: "/es_github_cafernandezlo"
-web_last_updated: 2022-06-09
+web_last_updated: 2022-12-19
 
-scholar_number_cites: 802
-scholar_hindex: 17
-scholar_last_updated: 2022-06-09
+scholar_number_cites: 963
+scholar_hindex: 20
+scholar_last_updated: 2022-12-19
 
-publons_number_reviews: 180
+publons_number_reviews: 184
 publons_number_editor: 39
-publons_last_updated: 2022-06-09
+publons_last_updated: 2022-12-19
 
 
 total_q1: 21
 total_d1: 7
-total_q1q2: 84.61
+total_q1q2: 87.5
 total_fa: 14
 total_ca: 15
-total_sa: 5
-total_if: 142.95
+total_sa: 6
+total_if: 146.384
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------

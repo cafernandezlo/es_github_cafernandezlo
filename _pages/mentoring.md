@@ -16,17 +16,18 @@ nav: true
 * Paula Guijarro Sánchez. _Bioinformatics applied to genomic mapping of antibiotic resistant bacterial pathogens, active surveillance and national studies_
 * Paula Carracedo Reboredo. _Bioinformatic models for biologically active compounds prediction in colon cancer_
 
-### Master's students (3)
+### Master's students (4)
+
+Highlighting:
 
 * Jose Liñares-Blanco. _Methodology for the analysis and identification of breast cancer-related genes using machine learning and massive sequencing data_.
 * Paula Guijarro Sánchez. _Analysis of virulence factors in Klebsiella Pneumoniae with machine learning techniques_.
 * Diego Fernández-Edreira. _Machine Learning based analysis of metagenomic profiles for the stratification of patients affected by type 1 diabetes_. **With honours**
 
-### Bachelor's students (20)
+### Bachelor's students (27)
 
 Highlighting:
 
-* Rodrigo Villar Bello. _Full implementation of a corporate website using stacks_.
 * Pablo Paz Varela. _Wearable device emulation and intelligent remote monitoring of paediatric patients_. **With honours**.
 * José Pablo Galego Carro. _WIFI-HASHING: automated hash collection and password pattern analysis on Wi-Fi networks_. **With honours**.
 * Álvaro Torrente Patiño. _Health data adquisition system from activity wristbands_. **With honours**.
