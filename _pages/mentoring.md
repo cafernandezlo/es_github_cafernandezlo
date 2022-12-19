@@ -12,10 +12,14 @@ nav: true
     * 5 JCR-indexed publications as senior/corresponding. **4Q1**, **1D1**
     * 1 book chapter as senior/corresponding
     * 8 international conferences, 6 as senior/corresponding. **2 best paper awards**
+    * Margarita Salas Postdoc awarded (2023-2025)
 * Diego Fernández-Edreira. _Development and application of an omics data analysis and integration methodology based on Machine Learning for the prediction of clinical variables in Biomedicine_
+    * 1 JCR-indexed publications as senior/corresponding. **1Q1**, **1D1**
 * Paula Guijarro Sánchez. _Bioinformatics applied to genomic mapping of antibiotic resistant bacterial pathogens, active surveillance and national studies_
+    * Xunta de Galicia Predoctoral Student Grant - IN606A- 2021/021
+    * 1 JCR-indexed publications. **1Q1**
 * Paula Carracedo Reboredo. _Bioinformatic models for biologically active compounds prediction in colon cancer_
-
+    * 2 JCR-indexed publications. **1Q1**
 ### Master's students (4)
 
 Highlighting:
