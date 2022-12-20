@@ -20,16 +20,16 @@ nav: true
 
 ### Ph.D. Thesis Committe
 
-* 2022. Adrián Inés Armas. University of La Rioja
-* 2021. Antonio Castro López. Universidade da Coruña
-* 2021. Raúl Alejandro Cabrera Andrade. Universidade da Coruña
-* 2020. Alba Arceo Vilas. Universidade da Coruña
+* 2022- Adrián Inés Armas. University of La Rioja
+* 2021- Antonio Castro López. Universidade da Coruña
+* 2021- Raúl Alejandro Cabrera Andrade. Universidade da Coruña
+* 2020- Alba Arceo Vilas. Universidade da Coruña
 
 ### Scientific evaluator for grant applications
 
-* 2022. Odysseus research project of the Research Foundation Flanders (FWO)
+* 2022- Odysseus research project of the Research Foundation Flanders (FWO)
 * 2021-2023. Directorate of Evaluation and Accreditation of the Andalusian Agency of Knowledge (DEVA-ACC). Health Sciences and Technology commission 
-* 2021. The Israeli Ministry of Innovation, Science and Technology-Framework of the Israeli-Italian-Tenth Call for Proposals on Scientific and Technological Cooperation-Health Applications of Artificial Intelligence
-* 2021. Ministry of Science and Higher Education of Poland-PRELUDIUM-20-Panel N27: Diagnostic tools, therapies and public health
-* 2021. Ministry of Science and Higher Education of Poland-MAESTRO-13-Panel NZ2: Genetics and Genomics
-* 2021. Expert candidate for the European Commission -DG CNECT -A1 Artificial Intelligence & Robotics - Horizon Europe Evaluations
+* 2021- The Israeli Ministry of Innovation, Science and Technology-Framework of the Israeli-Italian-Tenth Call for Proposals on Scientific and Technological Cooperation-Health Applications of Artificial Intelligence
+* 2021- Ministry of Science and Higher Education of Poland-PRELUDIUM-20-Panel N27: Diagnostic tools, therapies and public health
+* 2021- Ministry of Science and Higher Education of Poland-MAESTRO-13-Panel NZ2: Genetics and Genomics
+* 2021- Expert candidate for the European Commission -DG CNECT -A1 Artificial Intelligence & Robotics - Horizon Europe Evaluations
