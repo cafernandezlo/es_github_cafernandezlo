@@ -30,11 +30,8 @@ Technology call) at the Institute of Biomedical Research of A Coruña (INIBIC). 
 also a visiting scholar at the Stanford University under the supervision of Dr. Christina Curtis. 
 
 After my 4-year postdoc at the INIBIC, I currently hold an appointment at UDC and I was recognized 
-with a 5-years period (2016-2021) on teaching work and a 6-years period (2011-2016) on reseach work (ANECA-CNEAI). During the last years I added more than 1400 full time hours of 
-accreditated university teaching. I started leading a student body, including 4 PhD students, one of them defended with 
-honours. Furthermore, this means that I have experience leading research work with 5 JCR publications as senior author 
-(4 Q1, 1D1) and I am able to independently lead and supervise PhD students in my own research line. I am currently 
-supervising several PhD students, one of them being in her final year dealing with biologically active compounds in colon 
+with a 5-years period (2016-2021) on teaching work and a 6-years period (2011-2016) on reseach work (ANECA-CNEAI).
+I am currently supervising several PhD students, one of them being in her final year dealing with biologically active compounds in colon 
 cancer and two of whom are in the middle of their studies dealing with microbiome data integration and genomic mapping of 
 antibiotic resistant bacterial pathogens. The number of authors per article signing as senior author does not exceed four 
 people (~4.6 average per paper). Additionally, I have established strong and active international collaborations (only 12 out of 
@@ -55,8 +52,6 @@ My research work has
 I have reviewed 
 <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.publons_number_reviews}}</a> 
 manuscripts in JCR-indexed journals (source: Publons) and I have been member of (4) Ph.D. thesis committes. 
-
-Academic Editor - PeerJ Computer Science Journal, Editorial Board Member - BMC Molecular and Cell Biology, Topic Board Editor - Entropy, Editorial Board Member - Intelligent Data Analysis Journal.
 
 I have developed a model for monitoring COVID-19 virus infection in Spain that is available at <a href="https://covid19.citic.udc.es/">https://covid19.citic.udc.es</a>. 
 It has appeared in 25 media (radio and press) with an approximate rating of 43,654€ and an approximate audience of 
