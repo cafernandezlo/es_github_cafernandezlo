@@ -11,7 +11,7 @@ nav: true
 * 2022- Editorial Board Member - Intelligent Data Analysis Journal
 * 2021- Academic Editor - PeerJ Computer Science Journal
 * 2021- Editorial Board Member - BMC Molecular and Cell Biology
-* 2019- Topic Board Editor - Entropy 
+* 2019-2021. Topic Board Editor - Entropy 
 
 ### Professional Affiliations
 

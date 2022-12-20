@@ -20,6 +20,7 @@ nav: true
     * 1 JCR-indexed publications. **1Q1**
 * Paula Carracedo Reboredo. _Bioinformatic models for biologically active compounds prediction in colon cancer_
     * 2 JCR-indexed publications. **1Q1**
+
 ### Master's students (4)
 
 Highlighting:
@@ -42,6 +43,6 @@ Highlighting:
 
 Galician strategy - Xunta de Galicia for digital education that promotes the vocation of students in scientific research and technology and allows a direct connection with university teaching.
 
-3 students.
+* 2019-2020. 3 students.
 
 ### Research assistants (4)
