@@ -8,6 +8,7 @@ nav: true
 
 ### JCR Journals
 
+* 2023- Academic Editor - Plos One
 * 2022- Editorial Board Member - Intelligent Data Analysis Journal
 * 2021- Academic Editor - PeerJ Computer Science Journal
 * 2021- Editorial Board Member - BMC Molecular and Cell Biology

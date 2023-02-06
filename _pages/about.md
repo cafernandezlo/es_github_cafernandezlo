@@ -17,7 +17,7 @@ social: true
 ---
 
 Associate Professor (Profesor Titular de Universidad) and vice-dean of computing resources of the Faculty of Computer Science at the 
-University of A Coruña (UDC). Affiliated Researcher at the Centre for Information and Communications Technology Research (CITIC) and 
+University of A Coruña (UDC), Department of Computer Science and Information Technologies. Affiliated Researcher at the Centre for Information and Communications Technology Research (CITIC) and 
 the Institute of Biomedical Research of A Coruña (INIBIC).
 
 I obtained my PhD in computer science in 2014 
@@ -36,9 +36,7 @@ cancer and two of whom are in the middle of their studies dealing with microbiom
 antibiotic resistant bacterial pathogens. The number of authors per article signing as senior author does not exceed four 
 people (~4.6 average per paper). Additionally, I have established strong and active international collaborations (only 12 out of 
 {% bibliography_count -f papers --query @article[year<={{2022}} ] %} 
-publications with my PhD supervisors). I led two special issues as guest editor 
-in JCR journals with <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.publons_number_editor}}</a> 
-verified editor records. 
+publications with my PhD supervisors). 
 
 I have published (**{% bibliography_count -f papers --query @article[year<={{2022}} ] %}**) research papers in JCR-ranked journals (**{{site.total_q1}}**-Q1,
  **{{site.total_d1}}**-D1 and {{site.total_q1q2}}% Q1-Q2), ({{site.total_fa}}) as first author,
@@ -53,12 +51,7 @@ I have reviewed
 <a href="https://publons.com/researcher/1751450/carlos-fernandez-lozano/">{{site.publons_number_reviews}}</a> 
 manuscripts in JCR-indexed journals (source: Publons) and I have been member of (4) Ph.D. thesis committes. 
 
-I have developed a model for monitoring COVID-19 virus infection in Spain that is available at <a href="https://covid19.citic.udc.es/">https://covid19.citic.udc.es</a>. 
-It has appeared in 25 media (radio and press) with an approximate rating of 43,654€ and an approximate audience of 
-20,811,977 people according to data obtained from EPRENSA with correction index carried out by ATREVIA according to the 
-quality and stain of the mention.
-
 Current research lines include the conception and development of multi-omic data integration strategies with special focus on genome, 
-transcriptome and microbiome omic data to monitor complex and multifactorial diseases. Hence, I am committed to 
+transcriptome and metagenome data to monitor complex and multifactorial diseases. Hence, I am committed to 
 build a research program on how biological interactions are manifested at the disease level through the use, development 
 and application of kernel-based integrative computational approaches.
