@@ -17,8 +17,7 @@ social: true
 ---
 
 Associate Professor (Profesor Titular de Universidad) and vice-dean of computing resources of the Faculty of Computer Science at the 
-University of A Coruña (UDC), Department of Computer Science and Information Technologies. Affiliated Researcher at the Centre for Information and Communications Technology Research (CITIC). Carved out a distinguished academic and research career, culminating in the establishment of his own research laboratory in September 2023 – 
-[the Machine Learning in Life Sciences Laboratory](https://mall-lab.citic.udc.es).
+University of A Coruña (UDC), Department of Computer Science and Information Technologies. Affiliated Researcher at the Centre for Information and Communications Technology Research (CITIC). 
 
 I obtained my PhD in computer science in 2014 
 from UDC and in 2020 a MSc in Bioinformatics from the Open University of Catalonia and the University 
@@ -32,4 +31,5 @@ also a visiting scholar at the Stanford University under the supervision of Dr. 
 Current research lines include the conception and development of multi-omic data integration strategies with special focus on genome, 
 transcriptome and metagenome data to monitor complex and multifactorial diseases. Hence, I am committed to 
 build a research program on how biological interactions are manifested at the disease level through the use, development 
-and application of kernel-based integrative computational approaches.
+and application of kernel-based integrative computational approaches. Carved out a distinguished academic and research career, culminating in the establishment of his own research laboratory in September 2023 –
+[the Machine Learning in Life Sciences Laboratory](https://mall-lab.citic.udc.es).
