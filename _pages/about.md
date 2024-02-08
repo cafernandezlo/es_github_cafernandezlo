@@ -17,8 +17,8 @@ social: true
 ---
 
 Associate Professor (Profesor Titular de Universidad) and vice-dean of computing resources of the Faculty of Computer Science at the 
-University of A Coruña (UDC), Department of Computer Science and Information Technologies. Affiliated Researcher at the Centre for Information and Communications Technology Research (CITIC) and 
-the Institute of Biomedical Research of A Coruña (INIBIC).
+University of A Coruña (UDC), Department of Computer Science and Information Technologies. Affiliated Researcher at the Centre for Information and Communications Technology Research (CITIC). Carved out a distinguished academic and research career, culminating in the establishment of his own research laboratory in September 2023 – 
+[the Machine Learning in Life Sciences Laboratory](https://mall-lab.citic.udc.es).
 
 I obtained my PhD in computer science in 2014 
 from UDC and in 2020 a MSc in Bioinformatics from the Open University of Catalonia and the University 
