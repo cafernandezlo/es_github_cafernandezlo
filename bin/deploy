@@ -47,19 +47,6 @@ done
 # Exit if any subcommand fails
 set -e
 
-# Update Publons and Scholar data in '_config.yml' file.
-echo "Downloading data from Publons."
-sh bin/publons
-echo "Downloading data from Google Scholar."
-sh bin/scholar
-
-git add _config.yml
-git commit --allow-empty --message "Updated data from Publons and Scholar"
-git push --force --quiet origin source
-
-echo "Done!"
-
-
 echo "Deploying..."
 echo "Source branch: $SRC_BRANCH"
 echo "Deploy branch: $DEPLOY_BRANCH"

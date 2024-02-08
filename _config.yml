@@ -4,7 +4,7 @@
 title: Carlos Fernandez-Lozano
 email: carlos.fernandez[at]udc.es
 description: > # this means to ignore newlines until "url:"
-  Assistant Professor at University of A Coruña (Spain), PhD and MSc in Computer Science, MSc in Bioinfomatics and Biostatistics. Main research interests include feature selection, kernel-based techniques, machine learning, deep learning, support vector machines, data integration, computer vision and complex biological systems.
+  Associate Professor at University of A Coruña (Spain), PhD and MSc in Computer Science, MSc in Bioinfomatics and Biostatistics. Main research interests include feature selection, kernel-based techniques, machine learning, deep learning, support vector machines, data integration, computer vision and complex biological systems.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -22,13 +22,6 @@ publons_number_editor: 41
 publons_last_updated: 2023-03-01
 
 
-total_q1: 20
-total_d1: 7
-total_q1q2: 87.5
-total_fa: 14
-total_ca: 15
-total_sa: 6
-total_if: 149.893
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
@@ -74,18 +67,6 @@ enable_katex:       true
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
-collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
-
-news_limit: 5
-
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
@@ -102,32 +83,7 @@ exclude: [vendor]
 plugins:
     - jekyll-email-protect
     - jekyll-paginate
-    - jekyll/scholar
     - jemoji
-
-# Jekyll-Scholar
-scholar:
-
-  last_name: Fernandez-Lozano
-
-  style: apa
-  locale: en
-
-  sort_by: year
-  order: descending
-
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
 
 # -----------------------------------------------------------------------------
 # Other settings
